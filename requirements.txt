@@ -66,6 +66,7 @@ pyparted==3.11.2
 pyRFC3339==1.1
 python-apt==2.0.0+ubuntu0.20.4.5
 python-debian===0.1.36ubuntu1
+python-dotenv==0.18.0
 python-magic==0.4.16
 python-xapp==2.2.1
 python-xlib==0.23
@@ -98,5 +99,3 @@ WTForms==2.3.3
 xkit==0.0.0
 youtube-dl==2021.4.26
 zeroconf==0.24.4
-
-python-dotenv~=0.18.0
